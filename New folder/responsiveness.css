@@ -1,0 +1,16 @@
+
+
+
+    @media(max-width:973px){
+        .back-img{
+            width:100px ;
+            height: 130px !important;
+            border-radius: 23px !important;
+            position: absolute !important;
+            top: 311px !important;
+
+        }
+    }
+
+
+
